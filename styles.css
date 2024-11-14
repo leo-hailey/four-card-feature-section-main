@@ -114,5 +114,7 @@ p {
         align-items: center;
         height: 100%;
     }
-    
+    .intro {
+        margin-bottom: 3rem;
+    }
 }
